@@ -13,7 +13,7 @@ while (true)
     Console.WriteLine("3. Запустити Блокнот");
     Console.WriteLine("0. Вийти з програми");
 
-    Console.Write("Оберіть програму: ");
+    Console.Write("Оберіть потрібну програму: ");
     string choice = Console.ReadLine();
 
     switch (choice)
